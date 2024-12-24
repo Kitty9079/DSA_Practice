@@ -73,7 +73,7 @@ print( my_linked_list.find_middle_node().value )
 ```
 
 
-**Solution**  for LL: Find Middle Node *[here](./find_middle_node.md)*
+**Solution**  for LL: Find Middle Node *[here](./LinkedListAnswer/find_middle_node.md)*
 
 _____________________________________________________
 <br>
@@ -145,7 +145,7 @@ print(my_linked_list_1.has_loop() ) # Returns True
 
 ```
 
-**Solution**  for LL: Has Loop *[here](./Has_Loop.md)*
+**Solution**  for LL: Has Loop *[here](./LinkedListAnswer/Has_Loop.md)*
 _________________________________________________
 <br>
 
@@ -238,7 +238,7 @@ print(result.value)  # Output: 4
     
 """
 ```
-**Solution**  for LL: Find Kth Node From End  *[here](./Find_Kth_Node_From_End%20.md)*
+**Solution**  for LL: Find Kth Node From End  *[here](./LinkedListAnswer/Find_Kth_Node_From_End%20.md)*
 _________________________________________________
 
 **4. LL: Partition List (  Interview Question)**<br>
@@ -535,7 +535,7 @@ test_partition_list()
       
 ```
 
-**Solution**  for LL: Partition List  *[here](./Partition_List.md)*
+**Solution**  for LL: Partition List  *[here](./LinkedListAnswer/Partition_List.md)*
 __________________________
 
 **5. LL: Remove Duplicates ( ** Interview Question)**<br>
@@ -706,7 +706,7 @@ ll.head = None  # Directly setting the head to None
 ll.length = 0   # Adjusting the length to reflect an empty list
 test_remove_duplicates(ll, [])
 ```
-**Solution**  for LL: Partition List  *[here](./Partition_List.md)*
+**Solution**  for LL: Partition List  *[here](./LinkedListAnswer/Partition_List.md)*
 __________________________
 
 **6. Binary to Decimal ( ** Interview Question)**
@@ -862,7 +862,7 @@ except AssertionError:
 ```
 
 
-**Solution**  for LL: binary_to_decimal *[here](./binary_to_decimal.md)*
+**Solution**  for LL: binary_to_decimal *[here](./LinkedListAnswer/binary_to_decimal.md)*
 
 _____________________________________________________
 
@@ -1014,7 +1014,7 @@ empty_list.print_list()
 ```
 
 
-**Solution**  for LL: Reverse Between *[here](./reversed_between.md)*
+**Solution**  for LL: Reverse Between *[here](./LinkedListAnswer/reversed_between.md)*
 
 _____________________________________________________
 <br>
