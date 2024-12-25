@@ -706,7 +706,7 @@ ll.head = None  # Directly setting the head to None
 ll.length = 0   # Adjusting the length to reflect an empty list
 test_remove_duplicates(ll, [])
 ```
-**Solution**  for LL: Partition List  *[here](./LinkedListAnswer/Partition_List.md)*
+**Solution**  for LL: Remove Duplicates  *[here](./LinkedListAnswer/Remove_Duplicates.md)*
 __________________________
 
 **6. Binary to Decimal ( ** Interview Question)**
