@@ -364,7 +364,7 @@ my_dll.print_list()
 """
 ```
 
-**Solution**  DLL: Swap Nodes in Pairs *[here](./DLLAnswer/is_palindrome_DLL.md)*
+**Solution**  DLL: Swap Nodes in Pairs *[here](./DLLAnswer/swap_node_in_pairs_DLL.md)*
 
 _____________________________________________________
 <br>
